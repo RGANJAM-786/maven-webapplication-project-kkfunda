@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to AWS & devops </h1>
+<h1 align="center">Welcome to AWS & devops, thank you </h1>
 <h1 align="center"> Rakesh Ganjam</h1>
 <hr>
 <br>
